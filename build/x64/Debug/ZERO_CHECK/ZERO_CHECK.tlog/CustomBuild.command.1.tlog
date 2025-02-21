@@ -1,0 +1,10 @@
+^C:\USERS\IT\C++_PROJEKTAI\CALCULATOR\BUILD\CMAKEFILES\C790E7C40CEB4961B4D39CE5B65B440A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/IT/C++_Projektai/Calculator -BC:/Users/IT/C++_Projektai/Calculator/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/IT/C++_Projektai/Calculator/build/Calculator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\IT\C++_Projektai\Calculator\out\build\CMakePresets\CMakeFiles\4184af22bf9aa2b284aaff1a5506efec\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\IT\C++_Projektai\Calculator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\IT\C++_Projektai\Calculator\out\build\CMakePresets\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2957CA43-8CB4-3C18-9296-46518C09E54C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

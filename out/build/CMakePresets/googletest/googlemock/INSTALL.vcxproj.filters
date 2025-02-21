@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\IT\C++_Projektai\Calculator\out\build\CMakePresets\CMakeFiles\74967a81aae2775ca41899d332af99f7\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2957CA43-8CB4-3C18-9296-46518C09E54C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
